@@ -1,6 +1,6 @@
 # Node Polling App
 
-Building a real-time polling application using Node.js, Express and Pusher.
+Building a real-time polling application using Node.js, Express, Pusher and Mongoose.
 
 This exercise is based on Traversy Media course which you can find below:
 
